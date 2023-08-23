@@ -2,6 +2,7 @@
 /* Your CSS Code here. */
 .navbar{
 	background-color:black;
+	position:sticky;
 	
 }
 .navbar ul li a{
