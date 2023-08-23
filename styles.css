@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.navbar{
+	background-color:black;
+	
+}
+.navbar ul li a{
+	text-decoration:none;
+	color:white;
+	padding:20px;
+	margin:30px 30px;
+}
+.navbar ul{
+	overflow:auto;
+}
+.navbar>ul>li{
+	list-style:none;
+	float:left;
+}
